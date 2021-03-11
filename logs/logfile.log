@@ -1,0 +1,16 @@
+INFO  | 2021-03-11 15:08:49 | [main] log4j2.App (App.java:17) - Hello world Will be printed on debug
+WARN  | 2021-03-11 15:08:49 | [main] log4j2.App (App.java:18) - Hello world Will be printed on debug
+ERROR | 2021-03-11 15:08:49 | [main] log4j2.App (App.java:19) - Hello world Will be printed on debug
+FATAL | 2021-03-11 15:08:49 | [main] log4j2.App (App.java:20) - Hello world Will be printed on debug
+INFO  | 2021-03-11 15:08:49 | [main] log4j2.App (App.java:21) - Appending string: Hello world 
+INFO  | 2021-03-11 15:09:07 | [main] log4j2.App (App.java:17) - Hello world Will be printed on debug
+WARN  | 2021-03-11 15:09:07 | [main] log4j2.App (App.java:18) - Hello world Will be printed on debug
+ERROR | 2021-03-11 15:09:07 | [main] log4j2.App (App.java:19) - Hello world Will be printed on debug
+FATAL | 2021-03-11 15:09:07 | [main] log4j2.App (App.java:20) - Hello world Will be printed on debug
+INFO  | 2021-03-11 15:09:07 | [main] log4j2.App (App.java:21) - Appending string:
+INFO  | 2021-03-11 15:09:20 | [main] log4j2.App (App.java:17) - Hello world Will be printed on debug
+WARN  | 2021-03-11 15:09:20 | [main] log4j2.App (App.java:18) - Hello world Will be printed on debug
+ERROR | 2021-03-11 15:09:20 | [main] log4j2.App (App.java:19) - Hello world Will be printed on debug
+FATAL | 2021-03-11 15:09:20 | [main] log4j2.App (App.java:20) - Hello world Will be printed on debug
+INFO  | 2021-03-11 15:09:20 | [main] log4j2.App (App.java:21) - Appending string: Hello world
+FATAL | 2021-03-11 15:10:32 | [main] log4j2.App (App.java:20) - Hello world Will be printed on fatal
